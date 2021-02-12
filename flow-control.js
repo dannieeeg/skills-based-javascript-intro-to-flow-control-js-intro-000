@@ -6,7 +6,7 @@ function teenager(age) {
 
 }
 
-function ageChecker(age) {
+function ageChecker(age < 18) {
 
 }
 
